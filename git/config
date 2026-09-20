@@ -22,3 +22,5 @@
 [user]
 	name = Steve Lalonde
 	email = 16458080+lalondesteve@users.noreply.github.com
+[credential]
+	helper = store
